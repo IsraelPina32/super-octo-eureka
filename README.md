@@ -11,10 +11,7 @@
   <img  align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
           
-</div>
- 
- <br>
- 
+</div> 
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
