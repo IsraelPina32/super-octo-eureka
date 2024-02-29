@@ -38,8 +38,6 @@
   <a href="https://www.linkedin.com/in/israel-coimbra-de-pina-65b258231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
  
 </div>
