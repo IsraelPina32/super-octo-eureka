@@ -21,7 +21,7 @@
 
   <div>
     <h2> 💻 Como Desenvolvedor Frontend: </h2>
-  <img width="500px" src="https://skillicons.dev/icons?i=html,css,next,react,git,typescript,tailwind,materialui" />
+  <img width="500px" src="https://skillicons.dev/icons?i=html,css,react,next,git,typescript,tailwind,materialui" />
   </div>
 
           
