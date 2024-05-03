@@ -14,12 +14,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPina32&layout=compact&langs_count=6&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img  align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    ## Algumas Linguagens que tenho estudado até aqui!👽
+  
+  <h2> 💻 Como Desenvolvedor Frontend: </h2>
+  <img width="500px" src="https://skillicons.dev/icons?i=react,materialui,typescript,css,html,git" />
   
           
           
