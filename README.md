@@ -15,14 +15,15 @@
 </div>
 <div style="display: inline_block"><br>
     ## Algumas Linguagens que tenho estudado até aqui!👽
-  
-  <h2> 💻 Como Desenvolvedor Frontend: </h2>
+    <br>
+    <br>
+
+
+  <div>
+    <h2> 💻 Como Desenvolvedor Frontend: </h2>
   <img width="500px" src="https://skillicons.dev/icons?i=react,materialui,typescript,css,html,git" />
-  
-          
-          
-          
-          
+  </div>
+
           
 </div> 
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
