@@ -39,6 +39,6 @@
   
   <div align="center">
       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=footer"/>
-</div>#FF0000
+</div>
  
 </div>
