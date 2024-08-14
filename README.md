@@ -26,7 +26,7 @@
 
    <div>
     <h2> 💻 Skils Backend: </h2>
-  <img width="500px" height="50" src="https://skillicons.dev/icons?i=nodejs,c#" />
+  <img width="500px" height="50" src="https://skillicons.dev/icons?i=nodejs" />
   </div>
 
           
