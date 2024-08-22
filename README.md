@@ -14,18 +14,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPina32&layout=compact&langs_count=6&theme=graywhite"/>
 </div>
 <div  style="display: inline_block">
-  <br>
-  <br>
-  <div align="center">>
+
+  <div align="center">
+   <br>
+   <br> 
   - 🎓 Studying at university **Science Computer**: 5/8. 
   
   - 👩🏻‍💻 at the moment studying **React and Next.js**.
       
   - ❤ I like Next.js!
+  <br>
+  <br>
   </div>
-  
-  <br>
-  <br>
+ 
      
   <div align="center">
     <h2> 💻 Skils  Frontend: </h2>
