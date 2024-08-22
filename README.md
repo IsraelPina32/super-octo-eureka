@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/israel-coimbra-de-pina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;                                                                    
   <a href = "mailto:israelcoimbra4142@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/1071979425253560452" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;
+  <a href="https://x.com/IsraelCP26105" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;
   
   <div align="center">
       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=footer"/>
