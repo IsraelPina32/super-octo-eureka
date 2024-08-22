@@ -17,7 +17,9 @@
   <br>
   <br>
       - 🎓 Studying at university **Science Computer**: 5/8.
+  
       - 👩🏻‍💻 at the moment studying **React and Next.js**.
+      
       - ❤ I like Next.js!
   <br>
   <br>
