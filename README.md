@@ -35,7 +35,7 @@
 </div> 
   <br>
   <br>
-  <h2 align="center">📫 Conecte-se Comigo</h2>
+  <h2 align="center">📫 Connect with me</h2>
  
 <div align="center"> 
  <a href="https://www.instagram.com/israel_dev26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
