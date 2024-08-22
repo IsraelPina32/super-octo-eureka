@@ -25,13 +25,12 @@
   </div>
 
    <div align="center">
-    <h2 align="center"> 💻 Skils Backend: </h2>
+    <h2 > 💻 Skils Backend: </h2>
   <img width="500px" height="60" src="https://skillicons.dev/icons?i=nodejs" />
   </div>
 
           
 </div> 
-  ### Para novos tipos conteúdo sobre programação me segue a gente nas redes abaixo!
   <br>
   <br>
   <h2 align="center">📫 Conecte-se Comigo</h2>
