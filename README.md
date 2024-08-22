@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">#Bem vindo(a)👋 ao perfil de Israel Pina </h1></summary>
+    <summary><h1 style="display: inline-block">#Welcome(a)👋 ao profile the Israel Coimbra Pina</h1></summary>
   </ul>
 </div>
 
@@ -13,12 +13,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelPina32&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPina32&layout=compact&langs_count=6&theme=graywhite"/>
 </div>
-<div style="display: inline_block"><br>
-    ## Algumas Linguagens que tenho estudado até aqui!👽
-    <br>
-    <br>
-
-
+<div style="display: inline_block">
+  <br>
+      - 🎓 Studying at university **Science Computer**: 5/8.
+      - 👩🏻‍💻 at the moment studying **React and Next.js**.
+      - ❤ I like Next.js!
+  <br>
+     
   <div align="center">
     <h2> 💻 Skils  Frontend: </h2>
       <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,git,react,next,typescript,tailwind,materialui" />
