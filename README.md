@@ -16,6 +16,7 @@
 <div  style="display: inline_block">
 
   <div align="center">
+  <br>
    
   - 🎓 Studying at university **Science Computer**: 5/8 
   
