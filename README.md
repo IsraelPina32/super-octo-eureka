@@ -16,11 +16,11 @@
 <div  style="display: inline_block">
   <br>
   <br>
-      - 🎓 Studying at university **Science Computer**: 5/8.
+   - 🎓 Studying at university **Science Computer**: 5/8. 
   
-      - 👩🏻‍💻 at the moment studying **React and Next.js**.
+  - 👩🏻‍💻 at the moment studying **React and Next.js**.
       
-      - ❤ I like Next.js!
+  - ❤ I like Next.js!
   <br>
   <br>
      
