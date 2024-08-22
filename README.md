@@ -19,12 +19,12 @@
     <br>
 
 
-  <div>
+  <div align="center">
     <h2 align="center"> 💻 Skils  Frontend: </h2>
-  <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,git,react,next,typescript,tailwind,materialui" />
+      <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,git,react,next,typescript,tailwind,materialui" />
   </div>
 
-   <div>
+   <div align="center">
     <h2 align="center"> 💻 Skils Backend: </h2>
   <img width="500px" height="60" src="https://skillicons.dev/icons?i=nodejs" />
   </div>
