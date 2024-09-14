@@ -28,7 +28,7 @@
      
   <div align="center">
     <h2> 💻 Skils  Frontend: </h2>
-      <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,git,react,next,typescript,tailwind,materialui,jest,vue.js" />
+      <img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,git,react,next,typescript,tailwind,materialui,jest,vue" />
   </div>
 
    <div align="center">
